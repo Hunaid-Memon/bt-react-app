@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Hunaid M Hanif!
+      Hunaid Memon
     </div>
   );
 }
